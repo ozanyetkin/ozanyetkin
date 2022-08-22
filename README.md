@@ -4,11 +4,8 @@
 <table>
 <tr>
 <td>
-
-  <a href="https://github.com/ozanyetkin/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanyetkin&hide=issues&count_private=true" />
-  </a>
-
+![light](https://github-readme-stats.vercel.app/api?username=ozanyetkin&hide=contribs,issues&count_private=true)
+![dark](https://github-readme-stats.vercel.app/api?username=ozanyetkin&hide=contribs,issues&count_private=true&theme=dark)
 </td>
 <td>
 
