@@ -5,17 +5,12 @@
 <tr>
 <td>
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />#gh-dark-mode-only
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />#gh-light-mode-only
-</a>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanyetkin)](https://github.com/ozanyetkin/github-readme-stats)
   
 </td>
 <td>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 </tr>
