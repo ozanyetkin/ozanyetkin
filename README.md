@@ -5,12 +5,12 @@
 <tr>
 <td>
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanyetkin&bg_color=00000000)](https://github.com/ozanyetkin/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanyetkin&bg_color=00000000&hide=issues)](https://github.com/ozanyetkin/github-readme-stats)
   
 </td>
 <td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanyetkin&layout=compact)](https://github.com/ozanyetkin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanyetkin&layout=compact&bg_color=00000000)](https://github.com/ozanyetkin/github-readme-stats)
 
 </td>
 </tr>
