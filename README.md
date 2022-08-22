@@ -5,7 +5,7 @@
 <tr>
 <td>
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanyetkin)](https://github.com/ozanyetkin/github-readme-stats)#gh-light-mode-only
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanyetkin)#gh-light-mode-only](https://github.com/ozanyetkin/github-readme-stats)
 
 </td>
 <td>
