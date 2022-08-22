@@ -1,13 +1,21 @@
 ### Hello world!
 #### Designer | Researcher | Developer
 
-<a href="https://github.com/ozanyetkin/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanyetkin&hide=issues,contribs" />
-</a>
+<div class="row">
+  <div class="column">
+    <a href="https://github.com/ozanyetkin/convoychat">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanyetkin&hide=issues,contribs" />
+    </a>
+  </div>
+  <div class="column">
+    <a href="https://github.com/ozanyetkin/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanyetkin&hide=dart&langs_count=6&layout=compact" />
+    </a>
+  </div>
+</div>
 
-<a href="https://github.com/ozanyetkin/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanyetkin&hide=dart&langs_count=6&layout=compact" />
-</a>
+
+
 
 <!--
 **ozanyetkin/ozanyetkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
