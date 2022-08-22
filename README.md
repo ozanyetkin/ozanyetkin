@@ -2,6 +2,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanyetkin&hide=dart&langs_count=6&layout=compact)](https://github.com/ozanyetkin/github-readme-stats)
 
+![light](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
+
+![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
+
 <a href="https://github.com/ozanyetkin/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanyetkin&hide=dart&langs_count=6&layout=compact" />
 </a>
