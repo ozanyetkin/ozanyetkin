@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanyetkin&hide=dart&langs_count=6&layout=compact)](https://github.com/ozanyetkin/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanyetkin)](https://github.com/ozanyetkin/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanyetkin" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanyetkin&hide=issues,contribs" />
 </a>
 
 <a href="https://github.com/ozanyetkin/github-readme-stats">
