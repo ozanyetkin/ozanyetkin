@@ -6,7 +6,7 @@
 <td>
 
   <a href="https://github.com/ozanyetkin/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanyetkin&hide=issues" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanyetkin&hide=issues&count_private=true" />
   </a>
 
 </td>
