@@ -6,12 +6,10 @@
 <td>
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanyetkin&bg_color=00000000&hide=issues&count_private=true&show_icons=true&hide_border=true)](https://github.com/ozanyetkin/github-readme-stats)
-  
 </td>
 <td>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanyetkin&layout=compact&bg_color=00000000&hide=dart&langs_count=6&hide_border=true)](https://github.com/ozanyetkin/github-readme-stats)
-  
 </td>
 </tr>
 </table>
