@@ -5,16 +5,12 @@
 <tr>
 <td>
   
-  <a href="https://github.com/ozanyetkin/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanyetkin&hide=contribs,issues&count_private=true&theme=dark"#gh-dark-mode-only />
-  </a>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanyetkin)](https://github.com/ozanyetkin/github-readme-stats)#gh-light-mode-only
 
 </td>
 <td>
 
-  <a href="https://github.com/ozanyetkin/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanyetkin&hide=dart&langs_count=6&layout=compact" />
-  </a>
+
 
 </td>
 </tr>
