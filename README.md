@@ -1,8 +1,8 @@
 ### Hello world!
 ## Designer | Researcher | Developer
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanyetkin&hide=issues,contribs&layout=compact" />
+<a href="https://github.com/ozanyetkin/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanyetkin&hide=issues,contribs" />
 </a>
 
 <a href="https://github.com/ozanyetkin/github-readme-stats">
