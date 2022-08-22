@@ -1,20 +1,6 @@
 ### Hello world!
 #### Designer | Researcher | Developer
 
-<div class="row">
-  <div class="column">
-    <a href="https://github.com/ozanyetkin/convoychat">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanyetkin&hide=issues,contribs" />
-    </a>
-  </div>
-  <div class="column">
-    <a href="https://github.com/ozanyetkin/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanyetkin&hide=dart&langs_count=6&layout=compact" />
-    </a>
-  </div>
-</div>
-
-
 <table>
 <tr>
 <th> Good </th>
@@ -23,22 +9,16 @@
 <tr>
 <td>
 
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
+  <a href="https://github.com/ozanyetkin/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanyetkin&hide=issues,contribs" />
+  </a>
 
 </td>
 <td>
 
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
+  <a href="https://github.com/ozanyetkin/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanyetkin&hide=dart&langs_count=6&layout=compact" />
+  </a>
 
 </td>
 </tr>
