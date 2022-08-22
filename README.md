@@ -1,5 +1,5 @@
 ### Hello world!
-## Designer | Researcher | Developer
+#### Designer | Researcher | Developer
 
 <a href="https://github.com/ozanyetkin/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanyetkin&hide=issues,contribs" />
