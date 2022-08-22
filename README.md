@@ -3,14 +3,10 @@
 
 <table>
 <tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
 <td>
 
   <a href="https://github.com/ozanyetkin/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanyetkin&hide=issues,contribs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanyetkin&hide=issues" />
   </a>
 
 </td>
