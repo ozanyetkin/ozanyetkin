@@ -6,7 +6,7 @@
 <td>
   
   <a href="https://github.com/ozanyetkin/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanyetkin&hide=contribs,issues&count_private=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanyetkin&hide=contribs,issues&count_private=true&theme=dark"#gh-dark-mode-only />
   </a>
 
 </td>
