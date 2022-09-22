@@ -9,7 +9,7 @@
 </td>
 <td>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanyetkin&layout=compact&bg_color=00000000&hide=dart,c,lua&langs_count=6&hide_border=true)](https://github.com/ozanyetkin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanyetkin&layout=compact&bg_color=00000000&hide=dart,c,lua,nasl&langs_count=6&hide_border=true)](https://github.com/ozanyetkin/github-readme-stats)
 </td>
 </tr>
 </table>
