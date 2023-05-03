@@ -5,11 +5,11 @@
 <tr>
 <td>
  
-[![GitHub stats](https://github-readme-stats-xi-dusky.vercel.app/api?username=ozanyetkin&count_private=true&bg_color=00000000&hide=issues&show_icons=true&hide_border=true)](https://github.com/ozanyetkin/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanyetkin&count_private=true&bg_color=00000000&hide=issues&show_icons=true&hide_border=true)](https://github.com/ozanyetkin/github-readme-stats)
 </td>
 <td>
   
-[![Top Langs](https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=ozanyetkin&count_private=true&layout=compact&bg_color=00000000&exclude_repo=hello-world-suite,unity-sketchfab-importer&langs_count=8&hide_border=true)](https://github.com/ozanyetkin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanyetkin&count_private=true&layout=compact&bg_color=00000000&exclude_repo=hello-world-suite,unity-sketchfab-importer&langs_count=8&hide_border=true)](https://github.com/ozanyetkin/github-readme-stats)
 </td>
 </tr>
 </table>
