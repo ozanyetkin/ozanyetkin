@@ -5,7 +5,7 @@
 <tr>
 <td>
  
-[![GitHub stats](https://github-readme-stats-xi-dusky.vercel.app/api?username=ozanyetkin&count_private=true&bg_color=00000000&hide=issues&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/ozanyetkin/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-xi-dusky.vercel.app/api?username=ozanyetkin&count_private=true&bg_color=00000000&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=percentile)](https://github.com/ozanyetkin/github-readme-stats)
 </td>
 <td>
   
