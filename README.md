@@ -9,7 +9,7 @@
 </td>
 <td>
   
-[![Top Langs](https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=ozanyetkin&count_private=true&layout=compact&bg_color=00000000&exclude_repo=hello-world-suite,unity-sketchfab-importer&langs_count=8&hide_border=true&exclude=Jupyter%20Notebook)](https://github.com/ozanyetkin/github-readme-stats)
+[![Top Langs](https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=ozanyetkin&count_private=true&layout=compact&bg_color=00000000&exclude_repo=hello-world-suite,unity-sketchfab-importer&langs_count=8&hide_border=true&hide=Jupyter%20Notebook)](https://github.com/ozanyetkin/github-readme-stats)
 </td>
 </tr>
 </table>
