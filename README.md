@@ -3,7 +3,7 @@
 
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozanyetkin&theme=transparent)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ozanyetkin&theme=transparent)
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ozanyetkin&theme=transparent)
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ozanyetkin&theme=transparent&exclude=html)
 
 <!--
 **ozanyetkin/ozanyetkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
