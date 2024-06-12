@@ -1,9 +1,9 @@
 [
   {
     "type": "normal",
-    "fileName": "profile-custom.svg",
+    "fileName": "profile-custom-normal.svg",
     "backgroundColor": "#ffffff",
-    "foregroundColor": "#00000f",
+    "foregroundColor": "#000000",
     "strongColor": "#111133",
     "weakColor": "gray",
     "radarColor": "#47a042",
@@ -18,8 +18,8 @@
   },
   {
     "type": "rainbow",
-    "fileName": "profile-custom.svg",
-    "backgroundColor": "#00000f",
+    "fileName": "profile-custom-rainbow.svg",
+    "backgroundColor": "#000000",
     "foregroundColor": "#eeeeff",
     "strongColor": "rgb(255,200,55)",
     "weakColor": "#aaaaaa",
