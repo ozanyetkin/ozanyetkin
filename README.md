@@ -1,4 +1,4 @@
-<img src="./profile-3d-contrib/profile-custom-rainbow-wobg.svg" alt="Profile Custom Rainbow" height="250">
+<img src="./profile-3d-contrib/profile-custom-rainbow-wobg.svg" alt="Profile Custom Rainbow" width="750" height="250">
 <!--
 **ozanyetkin/ozanyetkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
