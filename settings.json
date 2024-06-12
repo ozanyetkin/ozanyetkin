@@ -1,15 +1,13 @@
 [
   {
     "type": "normal",
-    "fileName": "profile-custom-normal.svg",
-    "backgroundColor": "#ffffff",
-    "foregroundColor": "#000000",
+    "fileName": "profile-custom-normal-wobg.svg",
     "strongColor": "#111133",
     "weakColor": "gray",
-    "radarColor": "#47a042",
+    "radarColor": "#42a5f5",
     "growingAnimation": true,
     "contribColors": [
-      "#efefef",
+      "#ffffff",
       "#b3dbfb",
       "#8dc9f9",
       "#67b7f7",
