@@ -1,91 +1,18 @@
-```stl
-solid cube
-    facet normal 0 0 1
-        outer loop
-            vertex 0 0 0
-            vertex 1 0 0
-            vertex 1 1 0
-        endloop
-    endfacet
-    facet normal 0 0 1
-        outer loop
-            vertex 0 0 0
-            vertex 1 1 0
-            vertex 0 1 0
-        endloop
-    endfacet
-    facet normal 0 0 -1
-        outer loop
-            vertex 0 0 1
-            vertex 1 1 1
-            vertex 1 0 1
-        endloop
-    endfacet
-    facet normal 0 0 -1
-        outer loop
-            vertex 0 0 1
-            vertex 0 1 1
-            vertex 1 1 1
-        endloop
-    endfacet
-    facet normal 0 1 0
-        outer loop
-            vertex 0 1 0
-            vertex 1 1 0
-            vertex 1 1 1
-        endloop
-    endfacet
-    facet normal 0 1 0
-        outer loop
-            vertex 0 1 0
-            vertex 1 1 1
-            vertex 0 1 1
-        endloop
-    endfacet
-    facet normal 0 -1 0
-        outer loop
-            vertex 0 0 0
-            vertex 1 0 1
-            vertex 1 0 0
-        endloop
-    endfacet
-    facet normal 0 -1 0
-        outer loop
-            vertex 0 0 0
-            vertex 0 0 1
-            vertex 1 0 1
-        endloop
-    endfacet
-    facet normal 1 0 0
-        outer loop
-            vertex 1 0 0
-            vertex 1 1 1
-            vertex 1 0 1
-        endloop
-    endfacet
-    facet normal 1 0 0
-        outer loop
-            vertex 1 0 0
-            vertex 1 1 0
-            vertex 1 1 1
-        endloop
-    endfacet
-    facet normal -1 0 0
-        outer loop
-            vertex 0 0 0
-            vertex 0 1 1
-            vertex 0 0 1
-        endloop
-    endfacet
-    facet normal -1 0 0
-        outer loop
-            vertex 0 0 0
-            vertex 0 1 0
-            vertex 0 1 1
-        endloop
-    endfacet
-endsolid cube
-```
+### Hello world!
+#### Designer | Researcher | Developer
+
+<table>
+<tr>
+<td>
+
+[![GitHub stats](https://github-readme-stats-xi-dusky.vercel.app/api?username=ozanyetkin&count_private=true&bg_color=00000000&show_icons=true&hide_border=true&rank_icon=github)](https://github.com/ozanyetkin/github-readme-stats)
+</td>
+<td>
+
+[![Top Langs](https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=ozanyetkin&count_private=true&layout=compact&bg_color=00000000&langs_count=8&hide_border=true&hide=Jupyter%20Notebook,html,css&exclude_repo=hello-world-suite,unity-sketchfab-importer)](https://github.com/ozanyetkin/github-readme-stats)
+</td>
+</tr>
+</table>
 
 <!--
 **ozanyetkin/ozanyetkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
