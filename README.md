@@ -1,7 +1,4 @@
-```
-hello world!
 
-```
 <table>
 <tr>
 <td>
