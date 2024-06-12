@@ -1441,8 +1441,7 @@ c741 0000 c835 ffff 0000 803f 0000 0000
 a675 a5a7 0000 96c2 ffff 0000 803f 0000
 0080 0000 0000 0000 4842 a675 a5a7 0000
 96c2 0000 4842 ffff c741 0000 c841 0000
-4842 dd9c dc26 0000 c841 ffff ffff ffff
-
+4842 dd9c dc26 0000 c841 ffff 
 ```
 <!--
 **ozanyetkin/ozanyetkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
