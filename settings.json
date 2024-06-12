@@ -2,6 +2,7 @@
   {
     "type": "normal",
     "fileName": "profile-custom-normal-wobg.svg",
+    "foregroundColor": "gray",
     "strongColor": "#111133",
     "weakColor": "gray",
     "radarColor": "#42a5f5",
@@ -16,14 +17,13 @@
   },
   {
     "type": "rainbow",
-    "fileName": "profile-custom-rainbow.svg",
-    "backgroundColor": "#000000",
-    "foregroundColor": "#eeeeff",
+    "fileName": "profile-custom-rainbow-wobg.svg",
+    "foregroundColor": "gray",
     "strongColor": "rgb(255,200,55)",
     "weakColor": "#aaaaaa",
     "radarColor": "rgb(255,200,55)",
     "growingAnimation": true,
-    "saturation": "50%",
+    "saturation": "30%",
     "contribLightness": [
       "20%",
       "30%",
