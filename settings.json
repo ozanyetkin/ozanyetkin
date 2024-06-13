@@ -9,11 +9,11 @@
     "radarColor": "#1752cf",
     "growingAnimation": true,
     "contribColors": [
-      "#1752cf00",
-      "#1752cf33",
-      "#1752cf77",
-      "#1752cfbb",
-      "#1752cfff"
+      "#00000000",
+      "#2b0f54",
+      "#ab1f65",
+      "#ff4f69",
+      "#ffda45"
     ]
   },
   {
