@@ -4,16 +4,16 @@
     "fileName": "profile-custom-normal-wobg.svg",
     "backgroundColor": "#00000000",
     "foregroundColor": "gray",
-    "strongColor": "#3368dc",
+    "strongColor": "#493b71",
     "weakColor": "gray",
-    "radarColor": "#f1e05a",
+    "radarColor": "#493b71",
     "growingAnimation": true,
     "contribColors": [
       "#00000000",
-      "#ab1f65",
-      "#ff4f69",
-      "#ff8142",
-      "#ffda45"
+      "#a26986",
+      "#62436e",
+      "#f56c61",
+      "#e6b34f"
     ]
   },
   {

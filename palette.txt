@@ -1,0 +1,23 @@
+#493b71: A blend of #2b0f54 and #563d7c.
+#d34b70: A blend of #ab1f65 and #f34b7d.
+#ff6d55: A blend of #ff4f69 and #e34c26.
+#ff9a44: A blend of #ff8142 and #f1e05a.
+#ffd345: A blend of #ffda45 and #f1e05a.
+
+
+
+#493b71
+#d34b70
+#ff6d55
+#ff9a44
+#ffd345
+
+#a26986: A soft mauve tone.
+#62436e: A deeper purple shade.
+#f56c61: A vibrant coral color.
+#e6b34f: A rich golden shade.
+
+#8b726a: Warm muted tone (mix of Yellow and Dark Purple)
+#a67ea8: Soft lavender shade (mix of Blue and Dark Pink)
+#ff704f: Vibrant orange-red (mix of Red and Bright Pink)
+#b5a35e: Taupe color (mix of Dark Gray and Yellowish)
