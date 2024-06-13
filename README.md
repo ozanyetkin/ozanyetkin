@@ -1,14 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: auto;">
-  <defs>
-    <filter id="shading" x="0" y="0" width="1" height="1">
-      <feFlood flood-color="black" result="flood"/>
-      <feComposite in="flood" in2="SourceGraphic" operator="atop" result="composite"/>
-      <feBlend in="SourceGraphic" in2="composite" mode="multiply"/>
-    </filter>
-  </defs>
-  <image href="./profile-3d-contrib/profile-custom-rainbow-wobg.svg" width="100%" height="100%" style="filter: url(#shading);" />
-</svg>
-
+<img src="./profile-3d-contrib/profile-custom-normal-wobg.svg" alt="Profile Custom">
 <!--
 **ozanyetkin/ozanyetkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
