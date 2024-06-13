@@ -4,8 +4,8 @@
     "fileName": "profile-custom-normal-wobg.svg",
     "backgroundColor": "#00000000",
     "foregroundColor": "gray",
-    "strongColor": "#111133",
-    "weakColor": "gray",
+    "strongColor": "#263640",
+    "weakColor": "#4a697d",
     "radarColor": "#42a5f5",
     "growingAnimation": true,
     "contribColors": [
@@ -21,17 +21,17 @@
     "fileName": "profile-custom-rainbow-wobg.svg",
     "backgroundColor": "#00000000",
     "foregroundColor": "gray",
-    "strongColor": "rgb(255,200,55)",
+    "strongColor": "#42a5f5",
     "weakColor": "#aaaaaa",
-    "radarColor": "rgb(255,200,55)",
+    "radarColor": "#42a5f5",
     "growingAnimation": true,
     "saturation": "30%",
     "contribLightness": [
+      "0%",
       "20%",
-      "30%",
-      "35%",
       "40%",
-      "50%"
+      "60%",
+      "80%"
     ],
     "duration": "10s",
     "hueRatio": -7
