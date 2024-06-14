@@ -4,6 +4,17 @@
 #ff9a44: A blend of #ff8142 and #f1e05a.
 #ffd345: A blend of #ffda45 and #f1e05a.
 
+Palette1:
+#f1e05a
+#3572a5
+#e34c26
+#444444
+
+Palette2:
+#2b0f54
+#ab1f65
+#ff4f69
+#ffda45
 
 
 #493b71
@@ -21,3 +32,20 @@
 #a67ea8: Soft lavender shade (mix of Blue and Dark Pink)
 #ff704f: Vibrant orange-red (mix of Red and Bright Pink)
 #b5a35e: Taupe color (mix of Dark Gray and Yellowish)
+
+#d98e36: A warm shade derived from blending #f1e05a (Yellow) and #e34c26 (Red).
+#6c7db7: A cool tone created by blending #3572a5 (Blue) with itself to intensify the blue.
+#aeb12f: A muted greenish hue achieved by mixing #e34c26 (Red) and #444444 (Dark Gray).
+#65653f: A darker shade produced by blending #444444 (Dark Gray) with itself to deepen the tone.
+
+#f1e05a
+#e34c26
+#3178c6
+#563d7c
+#5686a5
+#f34b7d
+
+#444444: Gray
+#563d7c: Dark Purple
+#3178c6: Blue
+#f1e05a: Yellow
