@@ -1,39 +1,19 @@
 [
   {
     "type": "normal",
-    "fileName": "profile-custom-normal-wobg.svg",
+    "fileName": "profile-custom-normal-without-bg.svg",
     "backgroundColor": "#00000000",
     "foregroundColor": "gray",
-    "strongColor": "#3178c6",
+    "strongColor": "#3368dc",
     "weakColor": "gray",
-    "radarColor": "#3178c6",
+    "radarColor": "#3368dc",
     "growingAnimation": true,
     "contribColors": [
       "#00000000",
-      "#444444",
-      "#563d7c",
-      "#3178c6",
-      "#f1e05a"
+      "#2b0f54",
+      "#ab1f65",
+      "#ff4f69",
+      "#ffda45"
     ]
-  },
-  {
-    "type": "rainbow",
-    "fileName": "profile-custom-rainbow-wobg.svg",
-    "backgroundColor": "#00000000",
-    "foregroundColor": "gray",
-    "strongColor": "#42a5f5",
-    "weakColor": "#aaaaaa",
-    "radarColor": "#42a5f5",
-    "growingAnimation": true,
-    "saturation": "30%",
-    "contribLightness": [
-      "",
-      "20%",
-      "40%",
-      "60%",
-      "80%"
-    ],
-    "duration": "10s",
-    "hueRatio": -7
   }
 ]

@@ -46,6 +46,42 @@ Palette2:
 #f34b7d
 
 #444444: Gray
-#563d7c: Dark Purple
-#3178c6: Blue
+#3178c6: Dark Purple
+#f34b7d: Blue
 #f1e05a: Yellow
+
+Palette 1: Analogous Colors
+
+Analogous colors are next to each other on the color wheel, creating a harmonious look.
+
+    Low Contribution: #2b0f54 (from your profile picture)
+    Medium-Low Contribution: #5a2d82 (a mix of #2b0f54 and a bit lighter)
+    Medium-High Contribution: #885ab0 (lighter and blends towards #ab1f65)
+    High Contribution: #ab1f65 (from your profile picture)
+
+Palette 2: Monochromatic Colors
+
+Monochromatic palettes use varying shades of a single color, providing a unified look.
+
+    Low Contribution: #444444 (from your language pie chart)
+    Medium-Low Contribution: #666666 (a lighter shade of #444444)
+    Medium-High Contribution: #888888 (even lighter)
+    High Contribution: #aaaaaa (lightest)
+
+Palette 3: Complementary Colors
+
+Complementary colors are opposite each other on the color wheel, providing a vibrant contrast.
+
+    Low Contribution: #2b0f54 (from your profile picture)
+    Medium-Low Contribution: #1f4d65 (a cooler color complementing #ab1f65)
+    Medium-High Contribution: #ff4f69 (from your profile picture)
+    High Contribution: #ffda45 (from your profile picture)
+
+Palette 4: Custom Gradient
+
+A custom gradient blending between your key colors.
+
+    Low Contribution: #2b0f54 (from your profile picture)
+    Medium-Low Contribution: #3b2964 (a blend of #2b0f54 and #3572a5)
+    Medium-High Contribution: #555484 (a further blend towards #ab1f65)
+    High Contribution: #ff4f69 (from your profile picture)
