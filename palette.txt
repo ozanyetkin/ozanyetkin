@@ -16,7 +16,6 @@ Palette2:
 #ff4f69
 #ffda45
 
-
 #493b71
 #d34b70
 #ff6d55
@@ -85,3 +84,9 @@ A custom gradient blending between your key colors.
     Medium-Low Contribution: #3b2964 (a blend of #2b0f54 and #3572a5)
     Medium-High Contribution: #555484 (a further blend towards #ab1f65)
     High Contribution: #ff4f69 (from your profile picture)
+
+
+#2b0f54 becomes #7d5a99
+#ab1f65 becomes #e287aa
+#ff4f69 becomes #ff9b9f
+#ffda45 becomes #ffe7a1
