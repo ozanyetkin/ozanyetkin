@@ -18,14 +18,14 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@latest
       - name: Validate Token
         run: |
-          if [ -z "${{ secrets.GITHUB_TOKEN }}" ]; then
-            echo "GITHUB_TOKEN is not set or empty"
+          if [ -z "${{ secrets.GH_TOKEN }}" ]; then
+            echo "GH_TOKEN is not set or empty"
             exit 1
           else
             echo "GITHUB_TOKEN is set"
           fi
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: "./settings.json"
           MAX_REPOS: 300
