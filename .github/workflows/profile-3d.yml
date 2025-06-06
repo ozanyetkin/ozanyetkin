@@ -15,6 +15,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Validate Token
+        run: | 
+          echo "Checking GITHUB_TOKEN..."
+          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/user
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
