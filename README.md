@@ -1,2 +1,2 @@
-<a href="https://ozanyetkin.com/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=1A73E8&width=480&lines=%3E+Hello+world!;%3E+I'm+Ozan+Yetkin.;%3E+Researcher%2C+developer%2C+and+designer.;%3E+Let's+meet!+Just+click." alt="Typing SVG"/></a>
+<a href="https://ozanyetkin.com/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=1000&color=1A73E8&width=480&lines=ozanyetkin%40github%3A~%24+whoami;%3E+Hello+world!;%3E+I'm+Ozan+Yetkin.;%3E+A+researcher%2C+developer%2C+and+designer.;%3E+Click+to+reveal+more!" alt="Typing SVG" /></a>
 <a href="https://ozanyetkin.com/"><img src="./profile-3d-contrib/profile-custom-normal-without-bg.svg" alt="Profile Activity"></a>
